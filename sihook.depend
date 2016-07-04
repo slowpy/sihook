@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1438758529 source:f:\workspace\sihook\mdiclient.c
+	"mdiclient.h"
+	"sisw.h"
+	"tabctl.h"
+	"const.h"
+
+1438758529 f:\workspace\sihook\mdiclient.h
+	<windows.h>
+
+1438758529 f:\workspace\sihook\sisw.h
+	<windows.h>
+
+1438860553 f:\workspace\sihook\tabctl.h
+	<windows.h>
+	<Commctrl.h>
+	<wingdi.h>
+
+1439284077 f:\workspace\sihook\const.h
+
+1438758529 source:f:\workspace\sihook\siframe.c
+	<string.h>
+	<stdio.h>
+	"siframe.h"
+	"tabctl.h"
+	"const.h"
+
+1438758529 f:\workspace\sihook\siframe.h
+	<windows.h>
+
+1438758529 source:f:\workspace\sihook\sihook.c
+	<windows.h>
+	"siframe.h"
+	"mdiclient.h"
+
+1438758529 source:f:\workspace\sihook\sisw.c
+	<string.h>
+	"tabctl.h"
+	"const.h"
+	"utils.h"
+	"sisw.h"
+
+1438758529 f:\workspace\sihook\utils.h
+	<windows.h>
+
+1439283273 source:f:\workspace\sihook\tabctl.c
+	"const.h"
+	"utils.h"
+	"tabctl.h"
+
+1439200081 source:f:\workspace\sihook\utils.c
+	<string.h>
+	"utils.h"
+

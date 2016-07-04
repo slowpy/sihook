@@ -1,0 +1,33 @@
+EXPORTS
+    GetColorIndex @1
+    GetMdiClientHwnd @2
+    GetSiFrameHwnd @3
+    GetSiSwTitle @4
+    HookMdiClient @5
+    HookSI @6
+    HookSiFrame @7
+    HookSiSw @8
+    OutputDebugStringEx @9
+    ResizeMdiClient @10
+    SiTabCtl_AddItem @11
+    SiTabCtl_Create @12
+    SiTabCtl_DelItem @13
+    SiTabCtl_FindItem @14
+    SiTabCtl_GetCurItem @15
+    SiTabCtl_GetHeight @16
+    SiTabCtl_GetItemCount @17
+    SiTabCtl_GetRowCount @18
+    SiTabCtl_IsRowChanged @19
+    SiTabCtl_OnDrawItem @20
+    SiTabCtl_OnLButtonClk @21
+    SiTabCtl_OnLButtonDblClk @22
+    SiTabCtl_OnPosChanging @23
+    SiTabCtl_OnSelChange @24
+    SiTabCtl_SetCurItem @25
+    SiTabCtl_SetItemText @26
+    UnhookSI @27
+    UnhookSiSw @28
+    hwnd_mdi_client @29 DATA
+    hwnd_si_frame @30 DATA
+    hwnd_tab_ctl @31 DATA
+    strncasecmp @32
