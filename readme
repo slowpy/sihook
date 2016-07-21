@@ -1,5 +1,5 @@
 			SIHOOK
-=================================
+=====================================================================
 ABOUT:
 sihook is a tabs plugin for source insight 3.x.
 
@@ -11,3 +11,8 @@ you can also make it use Makefile,there's a simple one in the project.
 
 INSTALL:
 copy msimg32.dll sihook.dll to source insight dir. 
+
+====================================================================
+this project forked from:
+	https://github.com/redxu/sihook
+I modify some code to make it simple and beautiful.
